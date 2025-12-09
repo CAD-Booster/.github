@@ -11,7 +11,10 @@ Our goal is to create really good software, with *intuitive* being the ultimate 
 
 # Our products
 
+## Drew
+
 ![Drew](https://cadbooster.com/wp-content/uploads/2019/07/logo-Drew-500263-1.png)
+
 [Drew](https://cadbooster.com/drew/) is a drawing automation add-in for SOLIDWORKS. You store your preferences for templates, sheet sizes, scales, tables, views, dimensions and blocks in what we call *Blueprints*.  After that, you start a new drawing with a single click. 
 
 Our goal is to turn every action into a single click. Add a view and move the other views? One click. Add a sheet with views for each unique body? One click. Even sharing your Blueprints with a colleague just takes a single click.
@@ -22,7 +25,10 @@ You can try Drew for free for 14 days, no credit card required.
 
 ![A video of Drew creating Body Sheets, a sheet for every unique body in a multi-body part](https://cadbooster.com/wp-content/uploads/2020/12/Body-sheets-resized-compressed-1.gif)
 
+## Lightning 
+
 ![Lightning](https://cadbooster.com/wp-content/uploads/2020/08/Lightning-logo-500x150-1.png)
+
 [Lightning](https://cadbooster.com/lightning/) is and add-in for SOLIDWORKS that makes working with fasteners fun again. Stop scrolling through endless lists of filenames, just select a type, size and material, then drag the bolt into your assembly. We'll add the washer and pattern for you.
 
 We store size data for all your fasteners into a database, then make it easy to search through them. Since we're not browsing files but a database, this is very fast.
