@@ -11,7 +11,7 @@ Our goal is to create really good software, with *intuitive* being the ultimate 
 
 # Our products
 
-## Drew
+![Drew](https://cadbooster.com/wp-content/uploads/2019/07/logo-Drew-500263-1.png)
 [Drew](https://cadbooster.com/drew/) is a drawing automation add-in for SOLIDWORKS. You store your preferences for templates, sheet sizes, scales, tables, views, dimensions and blocks in what we call *Blueprints*.  After that, you start a new drawing with a single click. 
 
 Our goal is to turn every action into a single click. Add a view and move the other views? One click. Add a sheet with views for each unique body? One click. Even sharing your Blueprints with a colleague just takes a single click.
@@ -20,9 +20,9 @@ If SOLIDWORKS creates a popup, we create a setting. That way, you never have to 
 
 You can try Drew for free for 14 days, no credit card required.
 
-![](https://cadbooster.com/wp-content/uploads/2020/12/Body-sheets-resized-compressed-1.gif)
+![A video of Drew creating Body Sheets, a sheet for every unique body in a multi-body part](https://cadbooster.com/wp-content/uploads/2020/12/Body-sheets-resized-compressed-1.gif)
 
-## Lightning
+![Lightning](https://cadbooster.com/wp-content/uploads/2020/08/Lightning-logo-500x150-1.png)
 [Lightning](https://cadbooster.com/lightning/) is and add-in for SOLIDWORKS that makes working with fasteners fun again. Stop scrolling through endless lists of filenames, just select a type, size and material, then drag the bolt into your assembly. We'll add the washer and pattern for you.
 
 We store size data for all your fasteners into a database, then make it easy to search through them. Since we're not browsing files but a database, this is very fast.
@@ -31,7 +31,7 @@ Once you selected a size, drag it into SOLIDWORKS and let the *mate referenes* d
 
 You can try Lighning for free for 14 days, no credit card required.
 
-![](https://cadbooster.com/wp-content/uploads/2021/10/Lightning-fast-solidworks-fasteners-demo.gif)
+![A nine-second demo of Lightning, showing selecting a hole, selecting a bolt size and creating a pattern](https://cadbooster.com/wp-content/uploads/2021/10/Lightning-fast-solidworks-fasteners-demo.gif)
 
 ## Fastener Models 
 [Fastener Models](https://cadbooster.com/fasteners/) is a great fastener library for SOLIDWORKS. We purchased all ISO and DIN standards, extracted relevant size info and created software to create perfect fastener models.
@@ -40,6 +40,7 @@ The resulting files are **native** SOLIDWORKS parts, perfectly consistent and ma
 
 You can download 5 free sample files so can see exactly what you will get before you buy. You can buy a single standard or get a collection of 16, 30 or all 65 fastener types. We also offer customization services if you want to add custom properties, materials or change the file names.
 
+![Our fastener library is extremely consistent because every part is created by software](https://cadbooster.com/wp-content/uploads/2018/02/FastenerModels-1.png.webp)
 # Our open-source projects
 
 ## SolidDNA
