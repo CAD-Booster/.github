@@ -50,9 +50,14 @@ You can download 5 free sample files so can see exactly what you will get before
 # Our open-source projects
 
 ## SolidDNA
+
+![SolidDNA](https://cadbooster.com/wp-content/uploads/2023/01/SolidDna-logo-300x300-1.png)
+
 We maintain SolidDNA, a framework that makes building SOLIDWORKS add-ins easier. Every time a SOLIDWORKS API is hard to use, we create a user-friendly wrapper for it.
 
-SolidDNA was started by Luke Malpass, a SOLIDWORKS legend from a few years back. He got so busy that SolidDNA wasn't being maintained and our proposed bug fixes and change requests were effectively ignored. So we forked the project, fixed bugs and added features.
+SolidDNA was started by Luke Malpass, a SOLIDWORKS legend from a few years back. He got so busy that SolidDNA wasn't being maintained and our proposed bug fixes and change requests were effectively ignored. So we forked the project, fixed bugs and added features. 
+
+Check out the [CADBooster.SolidDNA NuGet package](https://www.nuget.org/packages/CADBooster.SolidDna) to get started.
 
 We use SolidDNA in all of our add-ins. It runs Drew, Lightning, TimeSavers and at least a dozen other add-ins that we built for our clients.
 
