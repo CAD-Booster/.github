@@ -13,7 +13,7 @@ Our goal is to create really good software, with *intuitive* being the ultimate 
 
 ## Drew
 
-![Drew](https://cadbooster.com/wp-content/uploads/2019/07/logo-Drew-500263-1.png)
+<img src="https://cadbooster.com/wp-content/uploads/2019/07/logo-Drew-500263-1.png" alt="Drew" height="200">
 
 [Drew](https://cadbooster.com/drew/) is a drawing automation add-in for SOLIDWORKS. You store your preferences for templates, sheet sizes, scales, tables, views, dimensions and blocks in what we call *Blueprints*.  After that, you start a new drawing with a single click. 
 
@@ -27,7 +27,7 @@ You can try Drew for free for 14 days, no credit card required.
 
 ## Lightning 
 
-![Lightning](https://cadbooster.com/wp-content/uploads/2020/08/Lightning-logo-500x150-1.png)
+<img src="https://cadbooster.com/wp-content/uploads/2020/08/Lightning-logo-500x150-1.png" alt="Lightning" height="150">
 
 [Lightning](https://cadbooster.com/lightning/) is and add-in for SOLIDWORKS that makes working with fasteners fun again. Stop scrolling through endless lists of filenames, just select a type, size and material, then drag the bolt into your assembly. We'll add the washer and pattern for you.
 
@@ -51,7 +51,7 @@ You can download 5 free sample files so can see exactly what you will get before
 
 ## SolidDNA
 
-![SolidDNA](https://cadbooster.com/wp-content/uploads/2023/01/SolidDna-logo-300x300-1.png)
+<img src="https://cadbooster.com/wp-content/uploads/2023/01/SolidDna-logo-300x300-1.png" alt="SolidDNA" height="150">
 
 We maintain SolidDNA, a framework that makes building SOLIDWORKS add-ins easier. Every time a SOLIDWORKS API is hard to use, we create a user-friendly wrapper for it.
 
