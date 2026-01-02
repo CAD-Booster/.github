@@ -53,7 +53,7 @@ You can download 5 free sample files so can see exactly what you will get before
 
 <img src="https://cadbooster.com/wp-content/uploads/2023/01/SolidDna-logo-300x300-1.png" alt="SolidDNA" height="150">
 
-We maintain SolidDNA, a framework that makes building SOLIDWORKS add-ins easier. Every time a SOLIDWORKS API is hard to use, we create a user-friendly wrapper for it.
+We maintain [SolidDNA](https://github.com/CAD-Booster/SolidDNA/), a framework that makes building SOLIDWORKS add-ins easier. Every time a SOLIDWORKS API is hard to use, we create a user-friendly wrapper for it.
 
 SolidDNA was started by Luke Malpass, a SOLIDWORKS legend from a few years back. He got so busy that SolidDNA wasn't being maintained and our proposed bug fixes and change requests were effectively ignored. So we forked the project, fixed bugs and added features. 
 
@@ -62,10 +62,10 @@ Check out the [CADBooster.SolidDNA NuGet package](https://www.nuget.org/packages
 We use SolidDNA in all of our add-ins. It runs Drew, Lightning, TimeSavers and at least a dozen other add-ins that we built for our clients.
 
 ## Airtable.Signed
-This is a simple project. The Airtable NuGet is not strong-name signed and the maintainer did not want to change that. So we download every update, sign the DLLs inside it and publish the NuGet package as [Airtable.Signed](https://www.nuget.org/packages/Airtable.Signed).
+This is a simple [project](https://github.com/CAD-Booster/airtable.net.signed). The Airtable NuGet is not strong-name signed and the maintainer did not want to change that. So we download every update, sign the DLLs inside it and publish the NuGet package as [Airtable.Signed](https://www.nuget.org/packages/Airtable.Signed).
 
 ## Coralogix.Signed
-Just as with Airtable.Signed, we create and publish a signed copy of the Coralogix.SDK NuGet package as [Coralogix.SDK.Signed](https://www.nuget.org/packages/Coralogix.SDK.Signed). Coralogix no longer recommends their own SDKs, so we deprecated the package.
+Just as with Airtable.Signed, this is a simple [project](https://github.com/CAD-Booster/Coralogix.SDK.Signed). We create and publish a signed copy of the Coralogix.SDK NuGet package as [Coralogix.SDK.Signed](https://www.nuget.org/packages/Coralogix.SDK.Signed). Coralogix no longer recommends their own SDKs, so we deprecated the package.
 
 # Getting started with the SOLIDWORKS API 
 We're writing a series of articles about getting started with the SOLIDWORKS API. We're starting with the absolute basics and are trying to include all weird API behaviors beginners may trip over. Because the API docs will not teach you those tricks.
